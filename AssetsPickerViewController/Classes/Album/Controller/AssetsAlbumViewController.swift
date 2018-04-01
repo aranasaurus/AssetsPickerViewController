@@ -8,7 +8,7 @@
 
 import UIKit
 import Photos
-import TinyLog
+
 import PureLayout
 
 // MARK: - AssetsAlbumViewControllerDelegate

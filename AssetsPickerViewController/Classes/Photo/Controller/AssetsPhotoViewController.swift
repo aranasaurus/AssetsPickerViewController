@@ -9,8 +9,6 @@
 import UIKit
 import Photos
 import PhotosUI
-import TinyLog
-import Device
 
 // MARK: - AssetsPhotoViewController
 open class AssetsPhotoViewController: UIViewController {

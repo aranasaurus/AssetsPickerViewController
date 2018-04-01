@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import SwiftARGB
 
 open class AssetsGuideView: UIView {
     

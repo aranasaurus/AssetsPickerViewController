@@ -8,7 +8,7 @@
 
 import UIKit
 import Photos
-import Dimmer
+
 import PureLayout
 
 public protocol AssetsAlbumCellProtocol {
